@@ -1,2 +1,2 @@
 # Biometric-Fingerprint-Integration
-This module is made using Mantra SDK . I have integrated it in the project for biometric registration and authentication.
+This is the code for integration of mantra mfs biometric fingerprint device with php for authentication using fingerprint. Code for biometric is in javascript and php.
